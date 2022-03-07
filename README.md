@@ -4,7 +4,7 @@ Para iniciar o projeto, você deve ter uma versão do node instalada (versão 12
 Você deverá dar o comando:
 ### `npm  install`
 
-Assim que as dependências do node forem instaladas, você deve deve dar o comando:
+Assim que as dependências do node forem instaladas, você deverá dar o comando:
 
 ### `npm start`
 
