@@ -8,7 +8,7 @@ Assim que as dependências do node forem instaladas, você deverá dar o comando
 
 ### `npm start`
 
-Isso irá fazer com o que a aplicação rode em localhost, na porta 3000
+Isso irá fazer com o que a aplicação rode em localhost, na porta 3000.
 Se caso o a aplicação não abrir automáticamente em seu  browser jogue na barra de busca do browser, a seguinte URL: http://localhost:3000
 
 # Técnoligas
